@@ -1,0 +1,1 @@
+CREATE database covid_db;
